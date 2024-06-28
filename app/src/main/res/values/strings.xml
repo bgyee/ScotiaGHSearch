@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Take Home</string>
+    <string name="search_text_view_hint">Enter a github user id</string>
+    <string name="search_button_text">SEARCH</string>
+    <string name="updated_at">Updated At: %1$s</string>
+    <string name="stargazers_count">Stargazers Count: %1$s</string>
+    <string name="forks">Forks: %1$d</string>
+    <string name="total_fork_count">Total Fork Count:</string>
+    <string name="description">Description: %1$s</string>
+</resources>
